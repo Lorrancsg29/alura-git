@@ -1,0 +1,16 @@
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\GestãoDeClientes.exe
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\GestãoDeClientes.deps.json
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\GestãoDeClientes.runtimeconfig.json
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\GestãoDeClientes.runtimeconfig.dev.json
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\GestãoDeClientes.dll
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\ref\GestãoDeClientes.dll
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\bin\Debug\net5.0\GestãoDeClientes.pdb
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.csproj.AssemblyReference.cache
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.AssemblyInfoInputs.cache
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.AssemblyInfo.cs
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.dll
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\ref\GestãoDeClientes.dll
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.pdb
+C:\Users\lorran.gomes\OneDrive - COMPASSO TECNOLOGIA LTDA\Área de Trabalho\Projetos\GestãoDeClientes\GestãoDeClientes\obj\Debug\net5.0\GestãoDeClientes.genruntimeconfig.cache
